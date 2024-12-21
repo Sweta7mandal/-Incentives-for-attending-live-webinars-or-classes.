@@ -5,6 +5,8 @@ This project implements a blockchain-based incentive system for attending live w
 
 ## Contract Address
 0xd9145CCE52D386f254917e481eB44e9943F39138
+![image](https://github.com/user-attachments/assets/788c7aa0-dad0-46bb-b770-8eca5ea2f81f)
+
 
 ## Project Vision
 Our vision is to encourage participation in live webinars and classes by providing tangible incentives. This system aims to enhance engagement and foster a more interactive learning or discussion environment.
